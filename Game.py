@@ -9,6 +9,7 @@ import pygame
 import random
 from tkinter import *
 from tkinter import ttk
+import sys
 
 pygame.init()
 #pygame.mixer.init()
